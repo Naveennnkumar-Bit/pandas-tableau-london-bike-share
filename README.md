@@ -69,7 +69,7 @@ Designed for data analysts, the project includes resources available on GitHub t
 
 Here is a snapshot of the dashboard created in Tableau:
 
-![Dashboard Snapshot](path/to/your/dashboard_snapshot.png)
+![Dashboard Snapshot](https://github.com/Naveennnkumar-Bit/pandas-tableau-london-bike-share/blob/main/london%20rides.png)
 
 ---
 
