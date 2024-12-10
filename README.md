@@ -100,9 +100,4 @@ Contributions are welcome! Submit a pull request or raise an issue to suggest im
 
 ---
 
-## 📄 License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 **Happy Analyzing!**
