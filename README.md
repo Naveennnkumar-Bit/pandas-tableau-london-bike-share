@@ -7,6 +7,14 @@ Designed for data analysts, the project includes resources available on GitHub t
 
 ---
 
+## 🖼️ Dashboard Snapshot
+
+Here is a snapshot of the dashboard created in Tableau:
+
+![Dashboard Snapshot](https://github.com/Naveennnkumar-Bit/pandas-tableau-london-bike-share/blob/main/london%20rides.png)
+
+---
+
 ## 🔄 Data Gathering and Manipulation
 - **Data Collection**: Programmatically retrieved using the **Kaggle API**, streamlining the data acquisition process.  
 - **Data Manipulation**: Utilizes the **Python pandas library** for efficient data exploration and assessment.  
@@ -62,14 +70,6 @@ Designed for data analysts, the project includes resources available on GitHub t
 - The project demonstrates the interplay between environmental factors and bike usage patterns.
 - Users can effectively understand and communicate insights through dynamic, interactive dashboards.
 - This analysis is a practical example of leveraging data analytics tools for real-world decision-making and trend forecasting.
-
----
-
-## 🖼️ Dashboard Snapshot
-
-Here is a snapshot of the dashboard created in Tableau:
-
-![Dashboard Snapshot](https://github.com/Naveennnkumar-Bit/pandas-tableau-london-bike-share/blob/main/london%20rides.png)
 
 ---
 
